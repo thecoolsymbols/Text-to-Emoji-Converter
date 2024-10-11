@@ -12,7 +12,7 @@ A simple web tool that converts specific words in a text into emojis.
 
 ## Installation
 1. Clone the repository:  
-git clone https://github.com/yourusername/text-to-emoji-converter.git
+git clone https://github.com/thecoolsymbols/text-to-emoji-converter.git
 
 2. Open `index.html` in your browser.
 
